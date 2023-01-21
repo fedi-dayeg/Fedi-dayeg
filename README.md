@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/fedi_dayeg"><img src="https://api.daily.dev/devcards/cc7283a2d73e4bb1a1552f5ca8e0d9c1.png?r=uo1" width="400" alt="fedi dayeg's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Fedi Dayeg</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
